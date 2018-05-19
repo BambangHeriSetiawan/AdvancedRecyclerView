@@ -5,13 +5,14 @@
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-AdvancedRecyclerView-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/3553)
 [![GitHub license](http://img.shields.io/badge/license-APACHE2-blue.svg)](https://github.com/StephenVinouze/AdvancedRecyclerView/blob/master/LICENSE)
 
-Before the appearance of `RecyclerView`, `ListView` and `GridView` were the common layout used to display lists of items.
+Before the appearance of `RecyclerView`, `ListView` and `GridView` were the common layouts used to display lists of items.
 Even though `RecyclerView` has optimized how to render list of items without having to worry how you want to display them (either list or grid) it comes with a price when implementing such behaviors.
 
 This library comes with two focuses:
 
 * Make your `RecyclerView` basic implementation dead simple.
-* Intagrating useful features that could be found in either `ListView` and `GridView` (such as choice mode) and even more (sections, pagination, gestures).
+* Integrating useful features that could be found in either `ListView` and `GridView` (such as choice mode)
+* Go further with advanced features (sections, pagination, gestures).
 
 Single choice | Multiple choice | Sections
 ---- | ---- | ----
